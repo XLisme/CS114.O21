@@ -11,9 +11,9 @@
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
-* [Quá trình môn học](#quatrinh)
+* [ Giới thiệu bản thân](#gioithieubanthan)
+* [ Quá trình môn học](#quatrinh)
 * [ Giảng viên hướng dẫn](#giangvien)
-* [ Đồ án môn học](#doan)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Máy học - MACHINE LEARNING
@@ -21,6 +21,13 @@
 * **Lớp học**: CS114.O21
 * **Ngày bắt đầu**: 19/02/2023
 * **Năm học**: 2023 - 2024
+## GIỚI THIỆU BẢN THÂN
+<a name="gioithieubanthan"></a>
+* **Họ và tên**: Trần Xuân Lương
+* **Ngày sinh**: 06/01/2004
+* **Quê quán**: Quảng Ngãi
+* **Lớp sinh hoạt**: KHMT2022.2
+* **Sở thích**: Bóng đá, nghe nhạc.
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
 ### 1.LẬP TRÌNH PYTHON
